@@ -1,3 +1,9 @@
+! DISTRIBUTION STATEMENT A. Approved for public release; distribution is
+! unlimited.  Granted clearance per 88ABW-YYYY-ZZZZ.
+!
+! This file is declared a work of the U.S. Government and is not subject to
+! copyright protection in the United States.
+
 PROGRAM PUT_INT8_T
 
   USE XDR

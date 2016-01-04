@@ -1,3 +1,9 @@
+# DISTRIBUTION STATEMENT A. Approved for public release; distribution is
+# unlimited.  Granted clearance per 88ABW-YYYY-ZZZZ.
+#
+# This file is declared a work of the U.S. Government and is not subject to
+# copyright protection in the United States.
+
 # Load and run select CMake files.
 
 INCLUDE(CMakeParseArguments)
@@ -128,3 +134,5 @@ ADD_STANDARD_TEST(alloc-array-float)
 ADD_STANDARD_TEST(alloc-array-double)
 ADD_STANDARD_TEST(alloc-array-bytes)
 ADD_STANDARD_TEST(alloc-array-string)
+
+ADD_STANDARD_TEST(combined-1)

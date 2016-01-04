@@ -11,6 +11,14 @@
 #   Pandoc_citeproc_EXECUTABLE   Full path to the Pandoc citeproc executable
 #   Pandoc_VERSION               The version of the Pandoc program
 #
+# ------------------------------------------------------------------------------
+#
+# DISTRIBUTION STATEMENT A. Approved for public release; distribution is
+# unlimited.  Granted clearance per 88ABW-YYYY-ZZZZ.
+#
+# This file is declared a work of the U.S. Government and is not subject to
+# copyright protection in the United States.
+#
 # ==============================================================================
 
 INCLUDE(FindPackageHandleStandardArgs)

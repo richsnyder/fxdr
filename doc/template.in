@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>$pagetitle$ &ndash; @PROJECT_NAME@ API</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1 class="title">$title$</h1>
+<h1 class="toc"><a href="index.html">Table of Contents</a></h1>
+<h1 class="manual">FXDR Manual &ndash; @PROJECT_NAME@/@PROJECT_VERSION@</h1>
+</header>
+$body$
+<footer>
+  <p>FXDR is, per 17 USC § 101, a work of the U.S. Government and is not
+  subject to copyright protection in the United States.</p>
+</footer>
+</body>
+</html>
