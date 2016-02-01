@@ -1,12 +1,12 @@
 # DISTRIBUTION STATEMENT A. Approved for public release; distribution is
-# unlimited.  Granted clearance per 88ABW-YYYY-ZZZZ.
+# unlimited.  Granted clearance per 88ABW-2016-0371.
 #
 # This file is declared a work of the U.S. Government and is not subject to
 # copyright protection in the United States.
 
 CMAKE_MINIMUM_REQUIRED(VERSION 3.0.0 FATAL_ERROR)
 
-PROJECT(fxdr LANGUAGES C Fortran VERSION 0.3.0)
+PROJECT(fxdr LANGUAGES C Fortran VERSION 0.3.1)
 
 # Add custom modules to the module search path and mark them for installation.
 
